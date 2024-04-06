@@ -1,1 +1,1 @@
-from prompt_wave.core import Wave
+from prompt_wave.core import PromptWave
